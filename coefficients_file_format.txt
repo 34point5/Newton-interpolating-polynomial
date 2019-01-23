@@ -1,0 +1,3 @@
+<number of points>
+<space-separated horizontal coordinates>
+<space-separated vertical coordinates>
